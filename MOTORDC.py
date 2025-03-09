@@ -1,3 +1,6 @@
+#TIMOTHY BERTU PASARIBU
+#235150301111027
+# KELAS C
 import sympy as sp
 
 #defini simbol
